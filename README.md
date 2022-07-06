@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭&nbsp;  I’m currently working on [Weather Pets](https://github.com/octoshrimpy/weather-pets)
+- 🔭&nbsp;  I’m currently working on [Top Coin](https://github.com/CalArcher/top-coin) and [Weather Pets](https://github.com/octoshrimpy/weather-pets)
 
 - 🌱 &nbsp; I’m currently learing **MongoDB, Node, and React**
 
