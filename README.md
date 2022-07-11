@@ -9,7 +9,7 @@
 
 - 🔭&nbsp;  I’m currently working on [Top Coin](https://github.com/CalArcher/top-coin) and [Weather Pets](https://github.com/octoshrimpy/weather-pets)
 
-- 🌱 &nbsp; I’m currently learing **MongoDB, Node, and React**
+- 🌱 &nbsp; I’m currently learing **MERN**
 
 - 🏁 &nbsp; The most recent project I finished [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
 
