@@ -9,9 +9,9 @@
 
 - 🔭&nbsp;  I’m currently working on [Top Coin](https://github.com/CalArcher/top-coin) and [Weather Pets](https://github.com/octoshrimpy/weather-pets)
 
-- 🌱 &nbsp; I’m currently learing **MERN**
+- 🏁 &nbsp; The most recent project I finished: [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
 
-- 🏁 &nbsp; The most recent project I finished [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
+- 🌱 &nbsp; I’m currently learing **MERN**
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
@@ -34,7 +34,7 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CalArcher/icons/main/express/expressLogo.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
+<a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="apachecordova" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
