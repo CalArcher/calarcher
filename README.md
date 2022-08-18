@@ -13,11 +13,11 @@
 
 - 🏁 &nbsp; The most recent project I finished [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
 
-- 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)!
+- 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
 - ♟️ &nbsp; In my free time, you can find me **playing chess, doing LeetCode, or watching old Top Gear episodes**
 
-- 📫 &nbsp; How to reach me **thecodearcher@gmail.com**
+- 📫 &nbsp; You can reach me by email at **thecodearcher@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
