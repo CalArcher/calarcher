@@ -15,7 +15,7 @@
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
-- ♟️ &nbsp; In my free time, you can find me **playing chess, doing LeetCode, or watching old Top Gear episodes**
+- ♟️ &nbsp; One of my favorite non-coding hobbies is playing Chess**
 
 - 📫 &nbsp; You can reach me by email at **thecodearcher@gmail.com** 
 
