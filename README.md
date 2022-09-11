@@ -11,7 +11,7 @@
 
 - 🏁 &nbsp; The most recent project I finished: [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
 
-- 🌱 &nbsp; I’m currently learing **MERN**
+- 🌱 &nbsp; I’m currently learing unit testing and testing best practices
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
