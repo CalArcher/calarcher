@@ -15,7 +15,7 @@
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
-- ♟️ &nbsp; One of my favorite non-coding hobbies is playing Chess**
+- ♟️ &nbsp; One of my favorite hobbies is playing Chess
 
 - 📫 &nbsp; You can reach me by email at **thecodearcher@gmail.com** 
 
