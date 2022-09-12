@@ -17,7 +17,7 @@
 
 - ♟️ &nbsp; One of my favorite hobbies is playing Chess
 
-- 📫 &nbsp; You can reach me by email at **thecodearcher@gmail.com** 
+- 📫 &nbsp; You can reach me by email at **codearcher@icloud.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
