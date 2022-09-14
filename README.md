@@ -15,7 +15,7 @@
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
 
-- ♟️ &nbsp; My favorite hobbies are playing Chess and making short animations in C4D, check them [out!](https://www.youtube.com/channel/UCCKKDRB69WgMIPg2yTAGkAw)
+- ♟️ &nbsp; My favorite hobbies are playing Chess and making short animations in C4D, [check them out!](https://www.youtube.com/channel/UCCKKDRB69WgMIPg2yTAGkAw)
 
 - 📫 &nbsp; You can reach me by email at **codearcher@icloud.com** 
 
