@@ -13,7 +13,7 @@
 
 - 🌱 &nbsp; I’m currently learing unit testing and testing best practices
 
-- 👨‍💻 &nbsp; Take a look at my [portfolio](https://calarcher.github.io/codearcher/)
+- 👨‍💻 &nbsp; Take a look at my [portfolio](https://codearcher.io/)
 
 - ♟️ &nbsp; My favorite hobbies are playing Chess and making [short animations](https://www.youtube.com/channel/UCCKKDRB69WgMIPg2yTAGkAw) in C4D
 
