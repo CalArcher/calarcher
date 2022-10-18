@@ -17,7 +17,7 @@
 
 - ♟️ &nbsp; My favorite hobbies are playing Chess and making [short animations](https://www.youtube.com/channel/UCCKKDRB69WgMIPg2yTAGkAw) in C4D
 
-- 📫 &nbsp; You can reach me by email at **codearcher@icloud.com** 
+- 📫 &nbsp; You can reach me by email at **cal@codearcher.io** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
