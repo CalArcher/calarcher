@@ -7,8 +7,6 @@
 
 <br>
 
-- 🔭&nbsp;  I’m currently working on [Top Coin](https://github.com/CalArcher/top-coin) and [Weather Pets](https://github.com/octoshrimpy/weather-pets)
-
 - 🏁 &nbsp; The most recent project I finished: [Top Coin](https://github.com/CalArcher/top-coin)
 
 - 🌱 &nbsp; I’m currently learing Ruby on Rails and SQL
