@@ -9,9 +9,9 @@
 
 - 🔭&nbsp;  I’m currently working on [Top Coin](https://github.com/CalArcher/top-coin) and [Weather Pets](https://github.com/octoshrimpy/weather-pets)
 
-- 🏁 &nbsp; The most recent project I finished: [I.S.S. Twitter Bot](https://github.com/CalArcher/ISS-Twitter-Bot)
+- 🏁 &nbsp; The most recent project I finished: [Top Coin](https://github.com/CalArcher/top-coin)
 
-- 🌱 &nbsp; I’m currently learing unit testing and testing best practices
+- 🌱 &nbsp; I’m currently learing Ruby on Rails and SQL
 
 - 👨‍💻 &nbsp; Take a look at my [portfolio](https://codearcher.io/)
 
