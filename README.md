@@ -1,5 +1,4 @@
 <h1 align="center">Hello, Github 👋</h1>
-<h2 align="center">I'm Cal, a JS fanatic</h2>
 
 <br>
 
